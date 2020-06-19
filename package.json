@@ -2,7 +2,6 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aneagoie.github.io/robofriends-pwa",
   "dependencies": {
     "enzyme-to-json": "^3.5.0",
     "gh-pages": "^3.0.0",

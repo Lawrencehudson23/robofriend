@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`expect to render MainPage component without crashing 1`] = `
+exports[`MainPage Test expect to render MainPage component without crashing 1`] = `
 "<div className=\\"tc\\">
   <Header />
   <SearchBox searchChange={[undefined]} />
